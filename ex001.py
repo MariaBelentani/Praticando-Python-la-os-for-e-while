@@ -100,7 +100,7 @@ for livro in livros:
 
 
 
-      # João está desenvolvendo um sistema de cadastro para um site de leitura. Ele precisa garantir que os usuários insiram um nome de usuário e uma senha válidos. As regras são as seguintes:
+# João está desenvolvendo um sistema de cadastro para um site de leitura. Ele precisa garantir que os usuários insiram um nome de usuário e uma senha válidos. As regras são as seguintes:
 
 # O nome de usuário deve ter pelo menos 5 caracteres.
 # A senha deve ter pelo menos 8 caracteres.
